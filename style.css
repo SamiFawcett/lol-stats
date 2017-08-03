@@ -1,0 +1,22 @@
+#summonerSearch{
+	text-align:center;
+}
+
+li{
+	display:inline;
+	list-style:none;
+}
+
+#nav-list li button{
+	height: 35px;
+	margin: 5px;
+	border:none;
+	background-color:lightblue;
+	color:white;
+}
+
+#nav-list li button:hover{
+	background-color: white;
+	color: lightblue;
+}
+
